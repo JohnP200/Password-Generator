@@ -17,5 +17,5 @@ This is a simple Python script that generates secure, random passwords. It allow
 1. Make sure you have Python 3 installed.
 2. Run the script using: 
 
-'''bash
+```bash
 python password_generator.py
