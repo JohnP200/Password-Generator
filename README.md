@@ -19,3 +19,13 @@ This is a simple Python script that generates secure, random passwords. It allow
 
 ```bash
 python password_generator.py
+
+## Example
+Enter desired password length: 12
+Generated password: @n4P!8zW2#mQ
+
+## Disclaimer
+This tool is for educational and personal use only. Do not generate passwords for unauthorized systems or accounts.
+
+## License
+MIT License
